@@ -1,0 +1,1 @@
+INSERT INTO `Todo`(user1,desc1,isDone) VALUES ('David','Adams',true)

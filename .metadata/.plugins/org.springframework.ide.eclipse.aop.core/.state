@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-rest-application"/>
+<aop-project name="customer-springmvc-webapp"/>
+<aop-project name="spring-hello-world"/>
+<aop-project name="spring-rest-application6"/>
+<aop-project name="spring-rest-application4"/>
+<aop-project name="spring-rest-application2"/>
+<aop-project name="springmvc4">
+<aspect-definition advice-class-name="org.springframework.transaction.interceptor.TransactionInterceptor" advice-method-name="invoke" advice-method-parameter-types="org.aopalliance.intercept.MethodInvocation" advice-type="AROUND" aspect-end-line-number="61" aspect-name="org.springframework.transaction.interceptor.TransactionInterceptor#springmvc4#src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml#61" aspect-start-line-number="61" factory-id="org.springframework.ide.eclipse.aop.core.javaAdvisorDefinitionElementFactory" file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" pointcut-expression="(@within(org.springframework.transaction.annotation.Transactional) || @annotation(org.springframework.transaction.annotation.Transactional)) &amp;&amp; execution(* *..*(..))" proxy-target-class="false">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:springmvc4|3:src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml|7:beans:12|8:customerServiceImpl:12" bean-file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" bean-start-line="12" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" source="=springmvc4/C:\/Users\/b8ibmjava30\/.m2\/repository\/org\/springframework\/spring-tx\/5.2.0.RELEASE\/spring-tx-5.2.0.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=springmvc4/src\/main\/java&lt;comm.example.springdemo.service{CustomerServiceImpl.java[CustomerServiceImpl~getCustomer~I" target-start-line="34"/>
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:springmvc4|3:src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml|7:beans:12|8:customerServiceImpl:12" bean-file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" bean-start-line="12" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" source="=springmvc4/C:\/Users\/b8ibmjava30\/.m2\/repository\/org\/springframework\/spring-tx\/5.2.0.RELEASE\/spring-tx-5.2.0.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=springmvc4/src\/main\/java&lt;comm.example.springdemo.service{CustomerServiceImpl.java[CustomerServiceImpl~getCustomers" target-start-line="21"/>
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:springmvc4|3:src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml|7:beans:12|8:customerServiceImpl:12" bean-file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" bean-start-line="12" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" source="=springmvc4/C:\/Users\/b8ibmjava30\/.m2\/repository\/org\/springframework\/spring-tx\/5.2.0.RELEASE\/spring-tx-5.2.0.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=springmvc4/src\/main\/java&lt;comm.example.springdemo.service{CustomerServiceImpl.java[CustomerServiceImpl~saveCustomer~QCustomer;" target-start-line="27"/>
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:springmvc4|3:src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml|7:beans:12|8:customerServiceImpl:12" bean-file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" bean-start-line="12" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/springmvc4/src/main/webapp/WEB-INF/spring-mvc-demo-servlet.xml" source="=springmvc4/C:\/Users\/b8ibmjava30\/.m2\/repository\/org\/springframework\/spring-tx\/5.2.0.RELEASE\/spring-tx-5.2.0.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=springmvc4/src\/main\/java&lt;comm.example.springdemo.service{CustomerServiceImpl.java[CustomerServiceImpl~deleteCustomer~I" target-start-line="41"/>
+</aspect-definition>
+</aop-project>
+<aop-project name="springmvc2"/>
+<aop-project name="spring-rest-application8"/>
+<aop-project name="spring-constructor-dependency-injection"/>
+<aop-project name="spring-jdbc-dl-demo2"/>
+<aop-project name="spring-hibernate-integration"/>
+<aop-project name="springmvc3"/>
+<aop-project name="springmvc1"/>
+<aop-project name="spring-rest-application3"/>
+<aop-project name="spring-rest-application5"/>
+<aop-project name="spring-rest-application7"/>
+<aop-project name="spring-jdbc-dl-demo"/>
+<aop-project name="spring-jdbc-dl-demo3"/>
+</aop-reference-model>

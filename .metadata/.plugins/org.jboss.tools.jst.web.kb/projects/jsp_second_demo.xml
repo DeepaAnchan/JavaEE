@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.0.Final/hibernate-commons-annotations-5.1.0.Final.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="springmvc1"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="springmvc1"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/c-1_0-rt.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/c-1_0.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/c.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fmt-1_0-rt.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fmt-1_0.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fmt.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/fn.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/permittedtaglibs.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/scriptfree.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/sql-1_0-rt.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/sql-1_0.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/sql.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/x-1_0-rt.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/x-1_0.tld" project="jsp_second_demo"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar-1/meta-inf/x.tld" project="jsp_second_demo"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/modelmapper/modelmapper/2.3.5/modelmapper-2.3.5.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/hibernate/hibernate-core/5.4.2.Final/hibernate-core-5.4.2.Final.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.3/javax.servlet.jsp-api-2.3.3.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/javassist/javassist/3.24.0-GA/javassist-3.24.0-GA.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar"/>
+  <path value="C:/Users/b8ibmjava30/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="28" name="%0" offset="2521" path="%1"/>
+   <linked-el length="25" name="%0" offset="1058" path="%2"/>
+   <linked-el length="27" name="%3" offset="2650" path="%1"/>
+   <linked-el length="24" name="%3" offset="1098" path="%2"/>
+   <linked-el length="28" name="%4" offset="2521" path="%1"/>
+   <linked-el length="27" name="%4" offset="2650" path="%1"/>
+   <linked-el length="24" name="%4" offset="2778" path="%1"/>
+   <linked-el length="18" name="%4" offset="2392" path="%1"/>
+   <linked-el length="153" name="%4" offset="2843" path="%1"/>
+   <linked-el length="154" name="%4" offset="3026" path="%1"/>
+   <linked-el length="21" name="%4" offset="1137" path="%2"/>
+   <linked-el length="24" name="%4" offset="1098" path="%2"/>
+   <linked-el length="21" name="%4" offset="2597" path="%1"/>
+   <linked-el length="21" name="%4" offset="2725" path="%1"/>
+   <linked-el length="25" name="%4" offset="1058" path="%2"/>
+   <linked-el length="21" name="%4" offset="2468" path="%1"/>
+   <linked-el length="18" name="%4" offset="1025" path="%2"/>
+   <linked-el length="25" name="%5" offset="557" path="%6"/>
+   <linked-el length="20" name="%5" offset="856" path="%6"/>
+   <linked-el length="18" name="%5" offset="391" path="%6"/>
+   <linked-el length="23" name="%5" offset="713" path="%6"/>
+   <linked-el length="14" name="%7" offset="2330" path="%1"/>
+   <linked-el length="14" name="%7" offset="991" path="%2"/>
+   <linked-el length="18" name="%8" offset="391" path="%6"/>
+   <linked-el length="23" name="%9" offset="713" path="%6"/>
+   <linked-el length="20" name="%10" offset="856" path="%6"/>
+   <linked-el length="24" name="%11" offset="2778" path="%1"/>
+   <linked-el length="21" name="%11" offset="1137" path="%2"/>
+   <linked-el length="18" name="%12" offset="2392" path="%1"/>
+   <linked-el length="153" name="%12" offset="2843" path="%1"/>
+   <linked-el length="154" name="%12" offset="3026" path="%1"/>
+   <linked-el length="21" name="%12" offset="2597" path="%1"/>
+   <linked-el length="21" name="%12" offset="2725" path="%1"/>
+   <linked-el length="21" name="%12" offset="2468" path="%1"/>
+   <linked-el length="18" name="%12" offset="1025" path="%2"/>
+   <linked-el length="25" name="%13" offset="557" path="%6"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="customer2.id" value="%8"/>
+  <alias path="tempCustomer.email" value="%11"/>
+  <alias path="tempCustomer.id" value="%12"/>
+  <alias path="/jsp_second_demo/src/main/webapp/search-list.jsp" value="%2"/>
+  <alias path="tempCustomer.firstName" value="%0"/>
+  <alias path="tempCustomer.lastName" value="%3"/>
+  <alias path="tempCustomer" value="%4"/>
+  <alias path="customer2" value="%5"/>
+  <alias path="customers" value="%7"/>
+  <alias path="/jsp_second_demo/src/main/webapp/list-customers.jsp" value="%1"/>
+  <alias path="customer2.lastName" value="%9"/>
+  <alias path="customer2.email" value="%10"/>
+  <alias
+   path="/jsp_second_demo/src/main/webapp/customer-update-form.jsp" value="%6"/>
+  <alias path="customer2.firstName" value="%13"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>
